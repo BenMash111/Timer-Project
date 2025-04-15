@@ -1,1 +1,1 @@
-This is a stopwatch created using JS
+This is a password generator created using JS
